@@ -5,7 +5,7 @@
 /venv
 .idea
 *.sqlite3
-
+requirements.txt
 
 
 

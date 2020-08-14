@@ -26,11 +26,9 @@ def initial_endpoint():
 
         # <Say> a different message depending on the caller's choice
         if choice == '1':
-            edit_call(call_id, "language", "de")
             resp.redirect(f'/hotline/de/initial')
             return str(resp)
         elif choice == '2':
-            edit_call(call_id, "language", "en-gb")
             resp.redirect(f'/hotline/en-gb/initial')
             return str(resp)
         else:

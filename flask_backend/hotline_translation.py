@@ -10,9 +10,9 @@ hotline_translation = {
     },
 
     "shut_down_message": {
-        "de": "Aus mehreren Gründen, haben wir diese Projekt beendet." +
+        "de": "Aus mehreren Gründen haben wir dieses Projekt beendet. " +
               "Bitte wenden Sie sich, wenn Sie Alltagsunterstützung benötigen, "
-              "bei ihrer Gemeinde, dem Roten Kreuz oder unter der Notruf-Hotline. ",
+              "bei ihrer Gemeinde, dem Roten Kreuz oder unter der Notruf-Nummer. ",
         "en-gb": "For multiple reasons this service is no longer active. "
                  "If you need assistance in your daily life due to covid "
                  "restrictions or other reasons, please call your local "
