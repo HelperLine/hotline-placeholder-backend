@@ -3,8 +3,8 @@
 # My stuff:
 
 /venv
-
-
+.idea
+*.sqlite3
 
 
 

@@ -9,8 +9,8 @@ from flask_backend.hotline_translation import hotline_translation
 
 
 @app.route("/")
-def hello():
-    return "<p>\"Hilfe am Ohr\" Hotline. See our <a href='https://www.hilfe-am-ohr.de/'>Website</a> for more.</p>"
+def index():
+    return "<p>\"Helperline\" Hotline. See our <a href='https://helperline.io/'>Website</a> for more.</p>"
 
 
 @app.route("/hotline", methods=['GET', 'POST'])
