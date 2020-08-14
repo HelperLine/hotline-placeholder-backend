@@ -5,8 +5,10 @@
 /venv
 .idea
 *.sqlite3
-
-
+__pycache__
+.git
+.gitignore
+.gcloudignore
 Pipfile
 
 
